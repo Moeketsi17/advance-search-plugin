@@ -1,0 +1,17 @@
+/* Add some basic styling for the admin interface */
+.widefat th, .widefat td {
+    text-align: left;
+}
+
+.column-shortcode input[type="text"] {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 12px;
+    padding: 3px;
+}
+
+#selected_post_types {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
